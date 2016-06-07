@@ -1,0 +1,19 @@
+body {
+	background-color: #DBFFEB;
+}
+h1 {
+	font-family: Arial, sans-serif;
+	color: #469899;
+}
+h3 {
+	font-family: Arial, sans-serif;
+	color: #000;
+}
+p {
+	font-family: Arial, sans-serif;
+	color: #000;
+	font-size: 14px
+}
+a {
+	color: #469899;
+}
